@@ -1,5 +1,5 @@
 
 👋 
 
-💎 Learn Ruby and Ruby On Rails
+💎 Learn Ruby and RoR
 
